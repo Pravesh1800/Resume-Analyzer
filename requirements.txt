@@ -1,0 +1,5 @@
+streamlit
+google.generativeai
+streamlit_pdf_viewer
+pypdf
+streamlit_navigation_bar
